@@ -1,0 +1,57 @@
+.header {
+   position: relative;
+   padding: 10px;
+   padding-top: 10px !important;
+   top: -100px;
+   border-radius: 10px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color: rgba(229, 237, 244, 0.7);
+   padding-top: 0;
+}
+
+.inputgroup {
+   display: flex;
+   align-items: center;
+}
+
+.search {
+   background-color: transparent !important;
+   border-radius: 20px !important;
+   width: 250px !important;
+   padding: 10px 10px 10px 30px ;
+   color: #fff !important;
+}
+.search::placeholder{
+   color: #fff !important;
+   background-color: transparent !important;
+}
+.qidiruv{
+   position: relative;
+}
+.searcha{
+   position: absolute;
+   left: 5px;
+   top: 8px;
+   width: 24px;
+   height: 28px;
+}
+.logo h2 {
+   color: #fff;
+   margin: 0;
+   display: flex;
+   align-items: center;
+   gap: 5px;
+}
+
+.sort {
+   background-color: transparent;
+   border: none;
+   
+}
+
+.sortin{
+   background-color: transparent;
+   padding: 10px;
+}
