@@ -1,9 +1,9 @@
 import { useRef, useState } from "react";
 import { Col, Container, Row } from "react-bootstrap";
 
-import StudentForm from "../components/form/StudentForm";
-import StudentHeader from "../components/header/StudentHeader";
-import StudentTable from "../components/table/StudentTable";
+import StudentForm from "../components/form/ProductForm";
+import StudentHeader from "../components/header/ProductHeader";
+import StudentTable from "../components/table/ProductTable";
 import useCRUD from "../hooks/useCRUD";
 
 const StudentsPageWithHook = () => {

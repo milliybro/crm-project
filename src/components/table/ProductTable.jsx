@@ -1,6 +1,6 @@
 import { Table } from "react-bootstrap";
 import PropTypes from "prop-types";
-import StudentCard from "../card/StudentCard";
+import StudentCard from "../card/ProductCard";
 import { memo } from "react";
 
 import "./Table.css"

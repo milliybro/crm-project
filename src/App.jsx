@@ -1,6 +1,6 @@
 import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 import LoginPage from "./pages/LoginPage";
-import StudentsPageWithHook from "./pages/StudentPageWithHook";
+import StudentsPageWithHook from "./pages/Product";
 
 function App() {
   var canvas = document.createElement("canvas");
